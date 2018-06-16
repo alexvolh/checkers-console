@@ -1,4 +1,5 @@
 # checkers-console
 test ckeckers
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+![alt text](http://i65.tinypic.com/dggj6c.png")
+
