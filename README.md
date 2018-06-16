@@ -1,0 +1,2 @@
+# checkers-console
+test ckeckers
